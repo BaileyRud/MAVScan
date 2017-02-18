@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-require_once "lib/engine.php";
+require_once "../lib/engine.php";
 $av_cli_version = 1.0;
 $av = new MAV_Engine();
 
