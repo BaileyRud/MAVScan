@@ -1,5 +1,5 @@
 <?php
-# MAV example script
+# MAV example-script
 require_once "lib/engine.php";
 
 $av = new MAV_Engine();
